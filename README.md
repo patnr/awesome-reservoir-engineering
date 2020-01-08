@@ -87,9 +87,9 @@ Awesome software projects sub-categorized by focus.
 | --- |
 
 ## Data Repositories
-- [ANP](http://www.anp.gov.br/dados-abertos-anp) - ANP dados abertos
+- [ANP](http://www.anp.gov.br/dados-abertos-anp) - Brazil's national oil agency open data repository.
 - [Volve Dataset](https://www.equinor.com/en/how-and-why/digitalisation-in-our-dna/volve-field-data-village-download.html) - Volve field data set download
-- [Unisim](https://www.unisim.cepetro.unicamp.br/benchmarks/br/) - Dataset para comparação de diferentes metodologias de simulação de reservatórios
+- [Unisim](https://www.unisim.cepetro.unicamp.br/benchmarks/br/) - CMG and Eclipse reservoir simulation datasets. 
 - [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](https://ags.aer.ca/publications/SPE_006.html) - Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada
 
 | ▲ [Top](#awesome-reservoir-engineering) |
