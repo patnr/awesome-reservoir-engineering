@@ -101,6 +101,10 @@ Awesome software projects sub-categorized by focus.
 - [Basic Geoscience Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed95fff0/1295033898443/Cheatsheet_basic.pdf) - Cheat Sheet for Basic Geoscience
 - [Geophysics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d70e4b0d158ed9603f5/1350658645407/Cheatsheet_geophysics.pdf) - Cheat Sheet for Geophysics
 - [Rock Physics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed960042/1374593568367/Cheatsheet_Rock_Physics.pdf) -  Cheat Sheet for Rock Physics
+- [History Matching tutorial](https://github.com/patricknraanes/HistoryMatching) - ![Python](media/icon/python.png)
+  Tutorial on history matching with ensembles.
+  Interactive, using Jupyter notebooks.
+  Can be run in the cloud (no installation required).
 
 | ▲ [Top](#awesome-reservoir-engineering) |
 | --- |
