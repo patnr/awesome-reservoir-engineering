@@ -53,7 +53,8 @@ Awesome software projects sub-categorized by focus.
 - [dlisio](https://github.com/equinor/dlisio) - ![Equinor](media/icon/equinor.png) ![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) dlisio is an LGPL licensed library for working with well logs in Digital Log Interchange Standard (DLIS V1) 
 - [porespy](https://github.com/PMEAL/porespy) - ![Python](media/icon/python.png) A set of tools for characterizing and analying 3D images of porous materials
 - [porepy](https://github.com/pmgbergen/porepy) - ![Python](media/icon/python.png) Simulation Tool for Fractured and Deformable Porous Media
-- [OpenPNM](https://github.com/PMEAL/OpenPNM) - ![Python](media/icon/python.png) Pore network modeling of porous media  
+- [OpenPNM](https://github.com/PMEAL/OpenPNM) - ![Python](media/icon/python.png) Pore network modeling of porous media
+- [drd](https://github.com/LukasMosser/digital_rocks_data) - ![Python](media/icon/python.png) Download and load digital rocks datasets
 ### PVT Analysis
 - [neqsim](https://equinor.github.io/neqsimhome/) - ![Equinor](media/icon/equinor.png) ![Java](media/icon/java.png) ![Matlab](media/icon/matlab.png) ![Python](media/icon/python.png) Estimation of phase behaviour and properties for oil and gas fluids
 - [PREOS](https://github.com/CorySimon/PREOS) - ![Python](media/icon/python.png) Computes the fugacity coefficient, compressibility, and density of a gas at a particular temperature and pressure using the Peng-Robinson EoS
@@ -91,6 +92,7 @@ Awesome software projects sub-categorized by focus.
 - [Volve Dataset](https://www.equinor.com/en/how-and-why/digitalisation-in-our-dna/volve-field-data-village-download.html) - Volve field data set download
 - [Unisim](https://www.unisim.cepetro.unicamp.br/benchmarks/br/) - CMG and Eclipse reservoir simulation datasets. 
 - [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](https://ags.aer.ca/publications/SPE_006.html) - Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada
+- [Digital Rocks Portal](https://www.digitalrocksportal.org/) - Data portal for fast storage and retrieval, sharing, organization and analysis of images of varied porous micro-structures
 
 | ▲ [Top](#awesome-reservoir-engineering) |
 | --- |
